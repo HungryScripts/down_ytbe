@@ -1,0 +1,20 @@
+este script es un generador de diccionarios o de contraseñas como tu le quieras llamar
+el uso de este script es bajo tu propia responsabilidad, no me hago responsable del uso que le des
+
+este script es muy basico, es para generar contraseñas, si buscan uno bueno pueden
+buscar desde google 
+
+"generadores de contraseñas github"
+
+eres libre de modificar el script a tu gusto
+
+¿como uso el script?
+muy simple solo debes de llenar los campos con la informacion que requiere
+por ejemplo en nombre puedes poner el nombre de una persona como rodriguez.
+
+los demas son lo mismo que el primero, puedes ponerle tanta informacion como quiereas
+
+el script se ejecutara en un bucle infinito, esto quiere decir que estara generando las contraseñas de manera infinita,
+asta que tu pares el proceso del script, lo cual desde pc se puede hacer con ctrl + c
+
+en android creo que es con ctrl + x 
